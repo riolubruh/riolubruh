@@ -1,16 +1,27 @@
-### Hi there 👋
+# Riolubruh's Profile
+#### I make stuff sometimes.
 
-<!--
-**riolubruh/riolubruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The languages I currently know are:
 
-Here are some ideas to get you started:
+- HTML
+- CSS
+- JavaScript
+- Python (kind of)
+- Batchfile
+- Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+Here's some stats
+
+![](https://raw.githubusercontent.com/riolubruh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/riolubruh/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/riolubruh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/riolubruh/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+Oh, I also have a website. You can find it [here](https://github.com/riolubruh/riolubruh.github.io#stuff)! It has games, web proxies and other sins.
+
+My most popular repository is [YABDP4Nitro, a BetterDiscord plugin](https://github.com/riolubruh/YABDP4Nitro).
+
+It's pretty cool, I guess.
