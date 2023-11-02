@@ -9,6 +9,7 @@ The languages I currently know are:
 - Python (kind of)
 - Batchfile
 - Bash
+- C# (still learning!)
 
 ___
 
