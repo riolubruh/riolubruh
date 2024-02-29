@@ -6,10 +6,12 @@ The languages I currently know are:
 - HTML
 - CSS
 - JavaScript
-- Python (kind of)
+- Python
 - Batchfile
 - Bash
-- C# (still learning!)
+- C# (learning)
+- Java (learning)
+- IBM Control Language (learning)
 
 ___
 
