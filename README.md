@@ -22,7 +22,7 @@ Here's some stats
 ![](https://raw.githubusercontent.com/riolubruh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/riolubruh/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-Oh, I also have a website. You can find it [here](https://github.com/riolubruh/riolubruh.github.io#stuff)! It has games, web proxies and other sins.
+Oh, I also have a website. I made it in high school and it's pretty basic, but I know some people still get some use out of it. You can find it [here](https://github.com/riolubruh/riolubruh.github.io#stuff)! It has games, web proxies and other sins.
 
 My most popular repository is [YABDP4Nitro, a BetterDiscord plugin](https://github.com/riolubruh/YABDP4Nitro).
 
