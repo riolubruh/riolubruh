@@ -16,7 +16,7 @@ The languages I currently know are:
 
 ___
 
-Here's some stats
+Here's some stats (not 100% accurate)
 
 ![](https://raw.githubusercontent.com/riolubruh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/riolubruh/github-stats/master/generated/overview.svg#gh-light-mode-only)
