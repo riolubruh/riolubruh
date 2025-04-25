@@ -13,6 +13,8 @@ The languages I currently know are:
 - Java
 - IBM Control Language
 - RPG/IV
+- PHP
+- SQL
 
 ___
 
